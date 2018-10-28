@@ -1,3 +1,2 @@
 # komber
-Api 23
-Minimal android 6.0 (Marshmallow)
+Api 23, minimal android 6.0 (Marshmallow)
